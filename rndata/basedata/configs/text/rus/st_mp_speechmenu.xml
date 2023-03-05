@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="speech_attack">
+		<text>Атакуй!</text>
+	</string>
+	<string id="speech_covermeartifact">
+		<text>Я возьму артефакт! Прикрой это!</text>
+	</string>
+	<string id="speech_followme">
+		<text>Следуйте за мной!</text>
+	</string>
+	<string id="speech_guardartifact">
+		<text>Защити артефакт. Мы пока не берем его!</text>
+	</string>
+	<string id="speech_holdingpos">
+		<text>Я все еще нахожусь в этом положении.</text>
+	</string>
+	<string id="speech_holdpos">
+		<text>Занимайте свои позиции!</text>
+	</string>
+	<string id="speech_icoverartifact">
+		<text>Достань артефакт! Я тебя прикрою!</text>
+	</string>
+	<string id="speech_needhelp">
+		<text>Мне нужна помощь!</text>
+	</string>
+	<string id="speech_needmoney">
+		<text>Нет денег, покупай снаряжение!</text>
+	</string>
+	<string id="speech_no">
+		<text>Нет..</text>
+	</string>
+	<string id="speech_noenemy">
+		<text>Вокруг никого нет.</text>
+	</string>
+	<string id="speech_report">
+		<text>Доложите о ситуации!</text>
+	</string>
+	<string id="speech_retreat">
+		<text>Отвали!</text>
+	</string>
+	<string id="speech_returntheartefact">
+		<text>Возвращение артефакта!</text>
+	</string>
+	<string id="speech_roger">
+		<text>Четкий.</text>
+	</string>
+	<string id="speech_silence">
+		<text>Заткнись!</text>
+	</string>
+	<string id="speech_sticktogether">
+		<text>Мы держимся вместе.</text>
+	</string>
+	<string id="speech_takeartifact">
+		<text>Достань артефакт!</text>
+	</string>
+</string_table>

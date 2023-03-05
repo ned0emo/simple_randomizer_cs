@@ -1,0 +1,14 @@
+novice_outfit
+bandit_outfit
+cs_light_outfit
+stalker_outfit
+svoboda_light_outfit
+dolg_outfit
+scientific_outfit
+cs_heavy_outfit
+svoboda_heavy_outfit
+specops_outfit
+military_outfit
+dolg_heavy_outfit
+exo_outfit
+svoboda_exo_outfit

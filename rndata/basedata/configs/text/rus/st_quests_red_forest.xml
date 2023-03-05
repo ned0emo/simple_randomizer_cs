@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="red_artefact_huntesr_capture_smart_name">
+		<text>Служба безопасности направляется в зону аномалий.</text>
+	</string>
+	<string id="red_artefact_huntesr_capture_smart_text">
+		<text>Служба безопасности направляется в зону аномалий.</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_name">
+		<text>Защита хулиганов в аномальной зоне</text>
+	</string>
+	<string id="red_artefact_huntesr_defend_smart_text">
+		<text>Защита хулиганов в аномальной зоне</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_name">
+		<text>Наемнический охват</text>
+	</string>
+	<string id="red_bridge_cover_allyes_attack_text">
+		<text>Наемники нападают на бандитов с другой стороны. Необходимо прикрывать наемников огнем и помогать им закрепиться на позициях.</text>
+	</string>
+	<string id="red_bridge_cover_allyes_name">
+		<text>Уничтожьте бандитов</text>
+	</string>
+	<string id="red_bridge_cover_allyes_text">
+		<text>Есть много бандитов и наемников, которые не могут опустить мост. Вы должны уничтожить как можно больше грабителей, насколько это возможно.</text>
+	</string>
+	<string id="red_bridge_cover_bridge_name">
+		<text>Охват наемников.</text>
+	</string>
+	<string id="red_bridge_cover_bridge_text">
+		<text>Наемники уже находятся на панели управления мостика. Необходимо прикрывать огнем боевиков, пытающихся опустить мост.</text>
+	</string>
+	<string id="red_bridge_go_to_positon_name">
+		<text>Займите позицию для стрельбы</text>
+	</string>
+	<string id="red_bridge_go_to_positon_text">
+		<text>Займите огневую позицию на втором этаже контрольно-пропускного пункта. Это идеальное место для отстрела бандитов.</text>
+	</string>
+	<string id="red_bridge_kill_sniper_name">
+		<text>Уничтожьте снайпера на холме</text>
+	</string>
+	<string id="red_bridge_kill_sniper_text">
+		<text>Вражеские снайперы ведут огонь по пульту управления на мостике. Стрелок должен быть уничтожен на холме.</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_name">
+		<text>Я поговорю с Лебедевым.</text>
+	</string>
+	<string id="red_bridge_talk_with_comander_text">
+		<text>Мост опущен, дорога на Лиманск свободна. Необходимо поговорить с Лебедевым.</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_name">
+		<text>Подождите, пока не прибудут преследователи.</text>
+	</string>
+	<string id="red_bridge_wait_for_allyes_text">
+		<text>Подождите, пока не прибудут преследователи.</text>
+	</string>
+	<string id="red_bring_compass_name">
+		<text>Отнеси компас Леснику.</text>
+	</string>
+	<string id="red_bring_compass_text">
+		<text>С помощью компаса Форестеру удалось выбраться из пузыря несколько дней назад. Этот инструмент должен помочь руководить наемниками той же аномалии. Нам нужно достать Форрестеру компас.</text>
+	</string>
+	<string id="red_find_compass_name">
+		<text>Поиск артефакта компаса</text>
+	</string>
+	<string id="red_find_compass_text">
+		<text>В Космической Аномалии, напоминающей космический пузырь, заполненный наемниками, Форстер обнаружил уникальный артефакт. По дороге домой он был ограблен бандитами, и товар был разграблен. Вам нужно найти "компас" и вернуть его.</text>
+	</string>
+	<string id="red_find_forester_name">
+		<text>Я поговорю с Форстером.</text>
+	</string>
+	<string id="red_find_forester_text">
+		<text>Коттедж лесника, который может подсказать, как добраться до лиманска, находится на заброшенной частной земле. Нам нужно поговорить с Форстером.</text>
+	</string>
+	<string id="red_find_teleport_name">
+		<text>Поиск космических аномалий</text>
+	</string>
+	<string id="red_find_teleport_text">
+		<text>На его руке от мертвой Группы была записка о тропинке через Красный лес. В глубине этого леса есть пространственная аномалия, которая ведет к старому отдельно стоящему дому на краю леса. Это место, где живет Форестер. Нам нужно обнаружить космические аномалии.</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_name">
+		<text>Импортируйте КПК с картой Красного леса</text>
+	</string>
+	<string id="red_forest_stalker_bring_map_text">
+		<text>Импортируйте КПК с картой Красного леса</text>
+	</string>
+	<string id="red_go_to_signal_sos_name">
+		<text>Перейти к сигналу бедствия</text>
+	</string>
+	<string id="red_go_to_signal_sos_text">
+		<text>Маршрут лесопользования через Красный лес точно не известен. Из Красного леса доносится сигнал бедствия. Приди и спаси меня.</text>
+	</string>
+	<string id="red_help_with_bridge_name">
+		<text>Помогите мосту "чистое небо" захватить</text>
+	</string>
+	<string id="red_help_with_bridge_text">
+		<text>Отряд наемников уже на пути к набережной в Лиманске. Они выходят со стороны расположения воров, поэтому быстро разминаются на мосту. "Чистое небо" помогает опустить мост, ведущий в Лиманск.</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_name">
+		<text>Уничтожение из засады</text>
+	</string>
+	<string id="red_pursuit_destroy_ambush_text">
+		<text>Стрелы защищают сталкеров. Уничтожьте их засаду.</text>
+	</string>
+	<string id="red_pursuit_strelok_name">
+		<text>Остановите стрелка.</text>
+	</string>
+	<string id="red_pursuit_strelok_text">
+		<text>Преступник исчез в туннеле. Необходимо оставаться рядом со стрелком и остановить его продвижение в середине зоны.</text>
+	</string>
+	<string id="red_pursuit_talk_csky_name">
+		<text>Остановите стрелка.</text>
+	</string>
+	<string id="red_pursuit_talk_csky_text">
+		<text>Стрелки очень близко - не более чем в ста ярдах. Необходимо оставаться стрелком.</text>
+	</string>
+	<string id="red_stalker_reinforced_name">
+		<text>Возьмем старую шахту.</text>
+	</string>
+	<string id="red_stalker_reinforced_text">
+		<text>Возьмем старую шахту. В этом районе много необычной активности, есть много редких вещей.</text>
+	</string>
+	<string id="red_go_to_military_base_name">
+		<text>Отправляйтесь на военную базу</text>
+	</string>
+	<string id="red_go_to_military_base_text">
+		<text>На военной базе есть мощные передатчики, которые могут отправлять сообщения группам, застрявшим в космических пузырях близ леманска. Вы должны пойти на армейский склад.</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_name">
+		<text>Найдите путь в зоне аномалий.</text>
+	</string>
+	<string id="red_find_enter_to_anomal_place_text">
+		<text>На его руке от мертвой Группы была записка о тропинке через Красный лес. В лесу есть космическая аномалия, которая приводит к старому пирату на опушке. Это место, где живет Форестер. Вам нужно найти путь в аномалию.</text>
+	</string>
+	<string id="red_find_signals_on_military_name">
+		<text>Получите сообщение о беспроводной передаче</text>
+	</string>
+	<string id="red_find_signals_on_military_text">
+		<text>Форстер получает фрагмент радиосообщения от неизвестного терминатора, отправившегося в странную аномалию близ Лиманского. Может быть, они знают секретный путь в город. Вам нужно отправиться на военную базу и найти место, где вы сможете получить более четкий радиосигнал.</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_name">
+		<text>Создайте своего личного цифрового помощника</text>
+	</string>
+	<string id="red_take_red_forest_map_pda_text">
+		<text>КПК одного из мертвых сталкеров все еще работает. В нем может содержаться важная информация о Красном Лесу. Необходимо поднять КПК.</text>
+	</string>
+	<string id="red_recover_item_1_name">
+		<text>Импортируйте КПК с картой Красного леса</text>
+	</string>
+	<string id="red_recover_item_1_text">
+		<text>Наемники, нам нужна ваша помощь. Нам нужна точная карта Красного леса. Я слышал, что многие сталкеры пытались расследовать это дело, но большинство из них исчезли. Найдите остальные данные и принесите их мне.</text>
+	</string>
+	<string id="red_recover_item_2_name">
+		<text>Снимите пулемет с танка.</text>
+	</string>
+	<string id="red_recover_item_2_text">
+		<text>У меня есть для тебя работа. Я слышал от Лесника, что в глубине леса есть старая советская цистерна, никто не знает, как она туда попала, как говорят после сильного извержения. На самом деле танк почти такого же размера, ну, достать его сейчас почти невозможно, но снять с него пулемет можно. Когда вы принесете пулемет, мы не будем унижать вас призами.</text>
+	</string>
+	<string id="red_recover_item_3_name">
+		<text>Восстановление лабораторного оборудования</text>
+	</string>
+	<string id="red_recover_item_3_text">
+		<text>Ты можешь дать мне что-нибудь еще? Для исследователей мы протестировали 1 прототип - это своего рода устройство, которое может измерять силу отклонения, но пока оно практически бесполезно и измерениям обучают только 2 дня. Пока мы проводили измерения, в старой шахте что-то произошло. Что-то напало на нас... Предметы летели на нас со всех сторон... Я был единственным, кто встал. Устройство было оставлено на парнях внизу, и они были брошены необычным способом, и этот парень, который напал на нас, вероятно, все еще там. Сейчас это нелегко получить, но если вы это получите, то получите хорошую награду.</text>
+	</string>
+</string_table>

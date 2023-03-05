@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="mar_capture_plant">
+		<text>Рыболовецкая фабрика</text>
+	</string>
+	<string id="mar_capture_plant_text">
+		<text>Отлавливание растений для получения неестественных веществ со дна болота</text>
+	</string>
+	<string id="mar_capture_tower">
+		<text>Захватите Сторожевую башню.</text>
+	</string>
+	<string id="mar_capture_tower_text">
+		<text>Помогите группе "Чистое небо" восстановить Сторожевую башню от бандитов</text>
+	</string>
+	<string id="mar_defend_tower">
+		<text>Отразите нападение бандитов на башню</text>
+	</string>
+	<string id="mar_defend_tower_text">
+		<text>Контратака бандитов со сторожевой вышкой</text>
+	</string>
+	<string id="mar_story_capture_bandit_base">
+		<text>Режим захвата</text>
+	</string>
+	<string id="mar_story_capture_bandit_base_text">
+		<text>Захватите ферму на северо-восточном болоте и выбейте оттуда бандитов</text>
+	</string>
+	<string id="mar_story_capture_levelchangers">
+		<text>Подойдите к рыболовной тропе</text>
+	</string>
+	<string id="mar_story_capture_levelchangers_text">
+		<text>Обеспечьте блокаду и дорогу к сельскохозяйственному сектору, захватив его окрестности.</text>
+	</string>
+	<string id="mar_story_empower_csky">
+		<text>Подтверждает наличие " чистого неба " на Болоте</text>
+	</string>
+	<string id="mar_story_empower_csky_text">
+		<text>Укрепляет позиции в болоте "чистое небо", уничтожая вражеские войска</text>
+	</string>
+	<string id="mar_story_go_to_escape">
+		<text>Следуйте указателю обруча</text>
+	</string>
+	<string id="mar_story_go_to_escape_text">
+		<text>Познакомьтесь с гидом и отправляйтесь с ним в гирлянду</text>
+	</string>
+	<string id="mar_story_go_to_marsh">
+		<text>Возьмите проводника на болото</text>
+	</string>
+	<string id="mar_story_go_to_marsh_text">
+		<text>Попросите своего гида отвести вас на болото</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh">
+		<text>Контроль над болотом</text>
+	</string>
+	<string id="mar_story_take_control_over_marsh_text">
+		<text>Управляйте болотом, чтобы обезопасить путь к проводнику</text>
+	</string>
+	<string id="mar_story_talk_with_barman">
+		<text>Поговорите с официантом</text>
+	</string>
+	<string id="mar_story_talk_with_barman_text">
+		<text>Спросите бармена внизу "чистого неба".</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1">
+		<text>Я поговорю с Лебедевым.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_1_text">
+		<text>Выясни, чего хочет Лебедев.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2">
+		<text>Выясните, что случилось с Лебедевым.</text>
+	</string>
+	<string id="mar_story_talk_with_commander_2_text">
+		<text>Спросите Лебедева, что произошло после второй разрядки</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3">
+		<text>Как договориться о взаимопомощи с Лебедевым</text>
+	</string>
+	<string id="mar_story_talk_with_commander_3_text">
+		<text>Договаривайтесь с Лебедевым о помощи, когда будете покидать болото</text>
+	</string>
+	<string id="mar_story_talk_with_guide">
+		<text>Отправляйтесь на заставу со своим проводником</text>
+	</string>
+	<string id="mar_story_talk_with_guide_text">
+		<text>Попросите своего гида отвести вас к аванпосту</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych">
+		<text>Давайте поговорим с Сидоровичем.</text>
+	</string>
+	<string id="mar_story_talk_with_sidorovych_text">
+		<text>Спросите Сидоровича о сталкере, которого интересовали странные детали. Это единственная подсказка, которая поможет вам понять, почему район так часто сотрясается из-за выбросов.</text>
+	</string>
+	<string id="mar_story_talk_with_trader">
+		<text>Берите снаряжение у дилеров</text>
+	</string>
+	<string id="mar_story_talk_with_trader_text">
+		<text>Приобретите оборудование у дилера.</text>
+	</string>
+	<string id="mar_tutorial_help">
+		<text>Помогите аванпосту</text>
+	</string>
+	<string id="mar_tutorial_help_text">
+		<text>Реагирует на сигналы бедствия с аванпостов в "чистом небе"</text>
+	</string>
+	<string id="mar_tutorial_kill_boars">
+		<text>Убийство свиньи</text>
+	</string>
+	<string id="mar_tutorial_kill_boars_text">
+		<text>Уничтожьте диких кабанов, атакующих заставу с "чистого неба"</text>
+	</string>
+	<string id="mar_tutorial_return_to_base">
+		<text>"Чистое небо" возвращается на базу</text>
+	</string>
+	<string id="mar_tutorial_return_to_base_text">
+		<text>Доберитесь до убежища на базе "чистое небо" до того, как произойдет выброс</text>
+	</string>
+	<string id="mar_tutorial_tower_top">
+		<text>Поднимитесь на башню</text>
+	</string>
+	<string id="mar_tutorial_tower_top_text">
+		<text>Поднимитесь на башню, чтобы спрятаться от мутантов</text>
+	</string>
+	<string id="st_bring_item_1_name">
+		<text>Я достану бомбу.</text>
+	</string>
+	<string id="st_bring_item_1_text">
+		<text>Команда "Чистое небо" попросила принести гранаты</text>
+	</string>
+	<string id="st_bring_item_2_name">
+		<text>Я принесу тебе какое-нибудь лекарство.</text>
+	</string>
+	<string id="st_bring_item_2_text">
+		<text>Команда в "чистом небе" испытывает острую нехватку лекарств</text>
+	</string>
+	<string id="st_bring_item_3_name">
+		<text>Я достану тебе немного патронов.</text>
+	</string>
+	<string id="st_bring_item_3_text">
+		<text>Для коллекции "Чистое небо" нужны патроны для дробовика</text>
+	</string>
+	<string id="st_bring_item_4_name">
+		<text>Я достану тебе немного патронов.</text>
+	</string>
+	<string id="st_bring_item_4_text">
+		<text>Команде "чистое небо" нужен пистолетный патрон</text>
+	</string>
+	<string id="st_bring_item_5_name">
+		<text>Я достану тебе немного патронов.</text>
+	</string>
+	<string id="st_bring_item_5_text">
+		<text>Команде "чистое небо" нужен автоматический патрон</text>
+	</string>
+	<string id="st_recover_item_1_name">
+		<text>Возвращение ПММ</text>
+	</string>
+	<string id="st_recover_item_1_text">
+		<text>Вечером наша команда отправилась в логово свиньи. Маловероятно, что бойцы будут спасены... Правда, лидер группы был вооружен модифицированным, но это оружие все еще было способно помочь. Мы должны вернуть его.</text>
+	</string>
+	<string id="st_recover_item_2_name">
+		<text>Возврат АКМ-74/2 St</text>
+	</string>
+	<string id="st_recover_item_2_text">
+		<text>Несколько дней назад на наших бойцов напали, когда они покупали кучу оружия у армии. Большая часть бочек отсутствовала, но лучшие образцы были спрятаны. Мы должны это получить.</text>
+	</string>
+	<string id="st_recover_item_3_name">
+		<text>Восстановление объекта</text>
+	</string>
+	<string id="st_recover_item_3_text">
+		<text>Команда "Чистое небо" получила сигнал бедствия от одного из сталкеров. Он сказал, что обнаружил что-то необычное, но не знал, как выбраться из обнаруженной им аномалии.. Патруль не успел прийти на помощь - сигнал быстро исчез. Ты должен заполучить артефакт.</text>
+	</string>
+	<string id="st_recover_item_4_name">
+		<text>Восстановление персонального цифрового помощника</text>
+	</string>
+	<string id="st_recover_item_4_text">
+		<text>Во время ночной разведки исчез один из наших лучших следопытов. Необходимо найти хотя бы его КПК, чтобы собранные данные не исчезли.</text>
+	</string>
+	<string id="st_recover_item_5_name">
+		<text>Возвращение комбинезона</text>
+	</string>
+	<string id="st_recover_item_5_text">
+		<text>Недавно мы потеряли остров в болоте и экспериментировали, пропитывая одежду всевозможными составами. Необходимо переделать слой последнего образца, чтобы каранча мог в полной мере оценить результаты эксперимента.</text>
+	</string>
+	<string id="st_sim_sos_name">
+		<text>Приди на помощь</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_name">
+		<text>Найдите информацию о пуленепробиваемых жилетах из кевлара.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_a_novice_outfit_text">
+		<text>Чтобы улучшить броню, Новикову нужна информация о кевларовой броне.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_name">
+		<text>Познакомьтесь с дульным тормозом.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_ac_mp5_text">
+		<text>Новиков хочет сделать специальный дульный тормоз, но принципы его работы малоизвестны. Нам нужно найти для него нужную информацию.</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_name">
+		<text>Ищите информацию об изменениях структуры</text>
+	</string>
+	<string id="st_mar_find_flesh_up_bd_mp5_text">
+		<text>Новиков мог бы сделать насадку на ствол, улучшающую баллистические характеристики оружия, но данных недостаточно.</text>
+	</string>
+	<string id="st_mar_leader_notify_actor">
+		<text>Наемники, не расслабляйтесь! Наша задача - контролировать болото. Если вы не знаете, что делать, откройте КПК: там вы найдете активную задачу.</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_desc">
+		<text>КПК о болоте, собранный следопытом "Чистое небо".</text>
+	</string>
+	<string id="st_mar_quest_scout_pda_name">
+		<text>Персональный цифровой помощник скаут "Чен"</text>
+	</string>
+</string_table>

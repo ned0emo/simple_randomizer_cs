@@ -1,0 +1,29 @@
+wpn_abakan ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_abakan_up2 ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_ak74 ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_ak74_up ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_ak74_up2 ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_ak74u ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_bm16 ammo_12x70_buck ammo_12x76_zhekan ammo_12x76_dart
+wpn_fn2000 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_g36 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_g36_up2 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_gauss ammo_gauss
+wpn_groza ammo_9x39_pab9 ammo_9x39_ap
+wpn_l85 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_lr300 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_lr300_up2 ammo_5.45x39_fmj ammo_5.45x39_ap
+wpn_mp5 ammo_9x19_fmj ammo_9x19_pbp
+wpn_pkm ammo_pkm_100
+wpn_sig550 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_sig550_up2 ammo_5.56x45_ss190 ammo_5.56x45_ap
+wpn_spas12 ammo_12x70_buck ammo_12x76_zhekan ammo_12x76_dart
+wpn_svd ammo_7.62x54_7h1 ammo_7.62x54_7h14
+wpn_svu ammo_7.62x54_7h1 ammo_7.62x54_7h14
+wpn_toz34 ammo_12x70_buck ammo_12x76_zhekan ammo_12x76_dart
+wpn_val ammo_9x39_pab9 ammo_9x39_ap
+wpn_vintorez ammo_9x39_pab9 ammo_9x39_ap
+wpn_vintorez_up ammo_9x39_pab9 ammo_9x39_ap
+wpn_wincheaster1300 ammo_12x70_buck ammo_12x76_zhekan ammo_12x76_dart
+wpn_rpg7 ammo_og-7b
+wpn_rg-6 ammo_vog-25 ammo_vog-25p

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_destroy_ambush_2_name">
+		<text>Уничтожьте врага на перекрестке</text>
+	</string>
+	<string id="lim_destroy_ambush_2_text">
+		<text>Уничтожьте засаду на перекрестке</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_name">
+		<text>Уничтожайте наконечники пулеметов</text>
+	</string>
+	<string id="lim_destroy_bandit_minigun_text">
+		<text>На перекрестке происходит настоящая битва. Здание слева занято бандитами. Он должен проложить путь, уничтожив пулеметные точки дома.</text>
+	</string>
+	<string id="lim_destroy_military_minigun_name">
+		<text>Дроссельный наконечник пистолета-пулемета</text>
+	</string>
+	<string id="lim_destroy_military_minigun_text">
+		<text>По другую сторону моста враг забаррикадировался в здании. Местность за мостом хорошо описана: группа "чистое небо" не смогла пересечь мост. Необходимо штурмовать здание и подавлять вражеский огонь. Сталкер в "чистом небе" направляет огонь на себя</text>
+	</string>
+	<string id="lim_electro_fence_name">
+		<text>Отключение генератора</text>
+	</string>
+	<string id="lim_electro_fence_text">
+		<text>Было найдено электрооборудование. Выключите генератор и отпустите крыло.</text>
+	</string>
+	<string id="lim_find_way_through_construction_name">
+		<text>Найдите путь через строительную площадку</text>
+	</string>
+	<string id="lim_find_way_through_construction_text">
+		<text>Пригороды Лиманска уже совсем близко. Путь к ним проходит через недостроенный комплекс. Вы должны найти путь через строительную площадку.</text>
+	</string>
+	<string id="lim_go_into_limansk_name">
+		<text>Разведка маршрута через лиманск</text>
+	</string>
+	<string id="lim_go_into_limansk_text">
+		<text>Лебедев приказал провести разведку маршрута через Лиманск, чтобы обеспечить безопасный проход основного подразделения "Чистое небо". В городе происходят уличные бои, поэтому вам нужно двигаться с осторожностью.</text>
+	</string>
+	<string id="lim_go_to_canal_name">
+		<text>Идите к мосту через канал</text>
+	</string>
+	<string id="lim_go_to_canal_text">
+		<text>Вражеский огонь очень плотный. Сразу же вам следует двигаться в сторону набережной канала.</text>
+	</string>
+	<string id="lim_destroy_ambush_1_name">
+		<text>Уничтожение из засады</text>
+	</string>
+	<string id="lim_destroy_ambush_1_text">
+		<text>Уничтожение из засады</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_name">
+		<text>Вернитесь к руководителю группы</text>
+	</string>
+	<string id="lim_electro_fence_actor_come_back_text">
+		<text>Я должен вернуться к руководителю группы.</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_name">
+		<text>Помогите бойцу подобраться поближе к снайперу</text>
+	</string>
+	<string id="lim_electro_fence_cs_soldier_cover_text">
+		<text>Помогите бойцу "чистого неба" подобраться поближе к снайперу.</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_name">
+		<text>Найдите генератор</text>
+	</string>
+	<string id="lim_electro_fence_find_transformator_text">
+		<text>Путь снайперу преграждает высоковольтный барьер. Поскольку в городе долгое время не было электричества, забор питается от автономного источника питания. Проволока от забора ведет к зданию института справа. Нам нужно обнаружить генератор и отключить его.</text>
+	</string>
+	<string id="lim_electro_fence_sniper_name">
+		<text>Уничтожение снайпера</text>
+	</string>
+	<string id="lim_electro_fence_sniper_text">
+		<text>Барьер был лишен энергии. Теперь вам предстоит подобраться поближе и уничтожить стрелка.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_name">
+		<text>Найдите руководителя группы.</text>
+	</string>
+	<string id="lim_find_bridge_squad_comander_text">
+		<text>Найдите руководителя группы.</text>
+	</string>
+</string_table>

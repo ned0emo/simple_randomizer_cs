@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_upg_zatvor_rpm">
+		<text>Смена затвора</text>
+	</string>
+	<string id="st_upg_zatvor_rpm_descr">
+		<text>Техническое усовершенствование затвора позволяет увеличить скорострельность</text>
+	</string>
+	<string id="st_upg_zatvor_recoil">
+		<text>Смена затвора</text>
+	</string>
+	<string id="st_upg_zatvor_recoil_descr">
+		<text>Точная регулировка затвора уменьшает разброс пули при выстреле</text>
+	</string>
+	<string id="st_upg_porsh_rpm">
+		<text>Регулировка газового поршня</text>
+	</string>
+	<string id="st_upg_porsh_rpm_descr">
+		<text>Уменьшение массы газового поршня замедляет скорострельность, но уменьшает отдачу</text>
+	</string>
+	<string id="st_upg_porsh_recoil">
+		<text>Регулировка газового поршня</text>
+	</string>
+	<string id="st_upg_porsh_recoil_descr">
+		<text>Установка газопоршневого компенсатора может уменьшить отдачу</text>
+	</string>
+	<string id="st_upg_barrel_weight">
+		<text>Замена багажного отделения</text>
+	</string>
+	<string id="st_upg_barrel_weight_descr">
+		<text>Замените обычный ствол на более легкий</text>
+	</string>
+	<string id="st_upg_barrel_curved">
+		<text>Замена багажного отделения</text>
+	</string>
+	<string id="st_upg_barrel_curved_descr">
+		<text>Насадка, которая увеличивает длину ствола и тем самым увеличивает начальную скорость пули</text>
+	</string>
+	<string id="st_upg_barrel_recoil">
+		<text>Замена багажного отделения</text>
+	</string>
+	<string id="st_upg_barrel_recoil_descr">
+		<text>При установке дульного тормоза отдача значительно уменьшается</text>
+	</string>
+	<string id="st_upg_barrel_rifled">
+		<text>Замена багажного отделения</text>
+	</string>
+	<string id="st_upg_barrel_rifled_descr">
+		<text>Нарезные стволы для добавления пращей и стрел для стрельбы из лука. Отключите возможность стрелять в огне</text>
+	</string>
+	<string id="st_upg_butt_recoil">
+		<text>Картина с летучей мышью</text>
+	</string>
+	<string id="st_upg_butt_recoil_descr">
+		<text>Обычная резиновая подушка. Вы можете точно отрегулировать длину задней части в соответствии с ростом стрелка и частично компенсировать отдачу</text>
+	</string>
+	<string id="st_upg_butt_recoil2">
+		<text>Полимерный приклад</text>
+	</string>
+	<string id="st_upg_butt_recoil2_descr">
+		<text>Замена приклада на полимерный уменьшает вес пистолета</text>
+	</string>
+	<string id="st_upg_butt_recoil3_descr">
+		<text>Замените стандартный приклад на более легкий аналог</text>
+	</string>
+	<string id="st_upg_butt_recoil4_descr">
+		<text>Специальная конструкция биты позволяет значительно уменьшить отдачу</text>
+	</string>
+	<string id="st_upg_auto_rpm">
+		<text>Сбалансированная автоматизация</text>
+	</string>
+	<string id="st_upg_auto_rpm_descr">
+		<text>Более точный баланс движущихся частей оружия значительно повышает скорострельность</text>
+	</string>
+	<string id="st_upg_auto_rpm2">
+		<text>Замена автоматизации</text>
+	</string>
+	<string id="st_upg_auto_rpm2_descr">
+		<text>Замена полуавтоматического спускового крючка на автоматический значительно увеличивает скорость стрельбы</text>
+	</string>
+	<string id="st_upg_poly_weight">
+		<text>Полимерные компоненты</text>
+	</string>
+	<string id="st_upg_poly_weight_descr">
+		<text>Использование полимерных компонентов значительно снижает вес оружия</text>
+	</string>
+	<string id="st_upg_barrel_rpm">
+		<text>Охлаждение ствола</text>
+	</string>
+	<string id="st_upg_barrel_rpm_descr">
+		<text>Система охлаждения ствола позволяет увеличить скорость стрельбы без риска деформации ствола</text>
+	</string>
+	<string id="st_upg_trigger_accur">
+		<text>Мягкая посадка</text>
+	</string>
+	<string id="st_upg_trigger_accur_descr">
+		<text>Плавный ударно-спусковой механизм позволяет повысить точность боя</text>
+	</string>
+	<string id="st_upg_charger_assault">
+		<text>Штурмовой магазин</text>
+	</string>
+	<string id="st_upg_charger_assault_descr">
+		<text>Увеличьте объем специализированного магазина</text>
+	</string>
+	<string id="st_upg_charger_big">
+		<text>Расширенные магазины</text>
+	</string>
+	<string id="st_upg_charger_big_descr">
+		<text>Увеличение количества патронов в магазине подручными средствами</text>
+	</string>
+	<string id="st_upg_charger_small">
+		<text>Магазин света</text>
+	</string>
+	<string id="st_upg_charger_small_descr">
+		<text>Точность стрельбы может быть повышена за счет уменьшения общей массы при одновременном уменьшении количества листов</text>
+	</string>
+	<string id="st_upg_gas_rpm">
+		<text>Замена газопровода</text>
+	</string>
+	<string id="st_upg_gas_rpm_descr">
+		<text>Более современная система выпуска газов позволяет увеличить скорость стрельбы</text>
+	</string>
+	<string id="st_upg_gravi_accur">
+		<text>Гравитационная стабильность</text>
+	</string>
+	<string id="st_upg_gravi_accur_descr">
+		<text>Повышенная точность стрельбы за счет дополнительной фиксации пуль, обеспечиваемой артефактами гравитационного характера</text>
+	</string>
+	<string id="st_upg_electro_accur">
+		<text>Электронная стабильность</text>
+	</string>
+	<string id="st_upg_electro_accur_descr">
+		<text>Автоматическая коррекция импульса пули. Значительно повышает точность стрельбы</text>
+	</string>
+	<string id="st_upg_bind_grenade">
+		<text>Идентификация ствола</text>
+	</string>
+	<string id="st_upg_bind_grenade_descr">
+		<text>Вы можете установить гранатомет на оружие</text>
+	</string>
+	<string id="st_upg_bind_optic">
+		<text>Оптическая стабилизация</text>
+	</string>
+	<string id="st_upg_bind_optic_descr">
+		<text>Вы можете установить различные изменения визуального контроля в оружии</text>
+	</string>
+	<string id="st_upg_bind_silencer">
+		<text>Установка глушителя</text>
+	</string>
+	<string id="st_upg_bind_silencer_descr">
+		<text>Пистолет может быть установлен с глушителями</text>
+	</string>
+	<string id="st_upg_handle_accur">
+		<text>Обращение с подушкой</text>
+	</string>
+	<string id="st_upg_handle_accur_descr">
+		<text>Высококачественные резиновые накладки повышают комфорт при обращении с оружием</text>
+	</string>
+	<string id="st_upg_handle_accur2">
+		<text>Анатомическая ручка</text>
+	</string>
+	<string id="st_upg_handle_accur2_descr">
+		<text>Индивидуальные эргономичные рукоятки, учитывающие анатомические особенности руки стрелка</text>
+	</string>
+	<string id="st_upg_accel_curved">
+		<text>Пневматический ускоритель</text>
+	</string>
+	<string id="st_upg_accel_curved_descr">
+		<text>Установка внутреннего пневматического ускорителя для увеличения начальной скорости пули</text>
+	</string>
+	<string id="st_upg_accel_curved2">
+		<text>Магнитный ускоритель</text>
+	</string>
+	<string id="st_upg_accel_curved2_descr">
+		<text>Увеличивает скорость пули с переменным магнитным полем</text>
+	</string>
+	<string id="st_upg_barrel_curved2">
+		<text>Цельный корпус</text>
+	</string>
+	<string id="st_upg_barrel_curved2_descr">
+		<text>Замените оружие со встроенными глушителями, заменив один ствол и комбинацию "ствольных глушителей".</text>
+	</string>
+	<string id="st_upg_pomp_rpm">
+		<text>Улучшенный насосный механизм</text>
+	</string>
+	<string id="st_upg_pomp_rpm_descr">
+		<text>Ручная регулировка и подстройка механизма перезарядки пистолета</text>
+	</string>
+	<string id="st_upg_head_misfire">
+		<text>Смена нападающего</text>
+	</string>
+	<string id="st_upg_head_misfire_descr">
+		<text>Повышение надежности оружия и сокращение количества ложных пусков</text>
+	</string>
+	<string id="st_upg_mat_wear">
+		<text>Прочный материал</text>
+	</string>
+	<string id="st_upg_mat_wear_descr">
+		<text>Замените внешний материал, защищающий механизм оружия от повреждений, на более прочный и износостойкий материал</text>
+	</string>
+	<string id="st_upg_surf_wear">
+		<text>Защитный спрей</text>
+	</string>
+	<string id="st_upg_surf_wear_descr">
+		<text>Алмазное покрытие для защиты деталей механизма от коррозии</text>
+	</string>
+	<string id="st_upg_group_kuchn">
+		<text>Лучшая точность стрельбы</text>
+	</string>
+	<string id="st_upg_group_kuchn_descr">
+		<text>Дульная насадка повышает точность стрельбы</text>
+	</string>
+	<string id="st_upg_staple_rpm">
+		<text>Уменьшите дугу</text>
+	</string>
+	<string id="st_upg_staple_rpm_descr">
+		<text>Простое и очень популярное улучшение, предназначенное для увеличения боевой скорости стрельбы из охотничьего ружья</text>
+	</string>
+	<string id="st_prop_ammo_size">
+		<text>Емкость для хранения</text>
+	</string>
+	<string id="st_prop_armor">
+		<text>Броня</text>
+	</string>
+	<string id="st_prop_artefact">
+		<text>Емкости с вещами</text>
+	</string>
+	<string id="st_prop_bullet_speed">
+		<text>Сглаженность</text>
+	</string>
+	<string id="st_prop_calibre">
+		<text>Калибр</text>
+	</string>
+	<string id="st_prop_damage">
+		<text>Безопасность</text>
+	</string>
+	<string id="st_prop_dispersion">
+		<text>Разрешение</text>
+	</string>
+	<string id="st_prop_durability">
+		<text>Устойчивость</text>
+	</string>
+	<string id="st_prop_grenade_launcher">
+		<text>Под дулом гранатомета</text>
+	</string>
+	<string id="st_prop_inertion">
+		<text>Удобство</text>
+	</string>
+	<string id="st_prop_night_vision">
+		<text>Банф</text>
+	</string>
+	<string id="st_prop_power">
+		<text>Восстановление</text>
+	</string>
+	<string id="st_prop_psy">
+		<text>Защита от воздействия PCI</text>
+	</string>
+	<string id="st_prop_radio_chem">
+		<text>Защита от радио и химических веществ</text>
+	</string>
+	<string id="st_prop_recoil">
+		<text>Выход</text>
+	</string>
+	<string id="st_prop_reliability">
+		<text>Надежность</text>
+	</string>
+	<string id="st_prop_restore_bleeding">
+		<text>Заживление ран</text>
+	</string>
+	<string id="st_prop_restore_health">
+		<text>Восстановление здоровья</text>
+	</string>
+	<string id="st_prop_rpm">
+		<text>Скорострельность</text>
+	</string>
+	<string id="st_prop_scope_1.6x">
+		<text>Визуальное видение</text>
+	</string>
+	<string id="st_prop_scope_4x">
+		<text>Встроенная оптика</text>
+	</string>
+	<string id="st_prop_silencer">
+		<text>Глушитель</text>
+	</string>
+	<string id="st_prop_thermo_electro">
+		<text>Тепловая и электрическая защита</text>
+	</string>
+	<string id="st_prop_underbarrel_slot">
+		<text>Идентификация ствола</text>
+	</string>
+	<string id="st_prop_weight">
+		<text>Вес</text>
+	</string>
+	<string id="st_tonnage">
+		<text>Переносной вес</text>
+	</string>
+	<string id="st_upg_active_filter_stalk">
+		<text>Активный фильтр</text>
+	</string>
+	<string id="st_upg_active_filter_stalk_descr">
+		<text>Конструкция основана на более эффективной системе фильтрации.</text>
+	</string>
+	<string id="st_upg_ammo_sysytem_rpm">
+		<text>Система подачи картриджей</text>
+	</string>
+	<string id="st_upg_ammo_sysytem_rpm_descr">
+		<text>Ускоряет подачу патронов в патронник и значительно повышает скорострельность</text>
+	</string>
+	<string id="st_upg_anti_gas_stalk">
+		<text>Противогаз</text>
+	</string>
+	<string id="st_upg_anti_gas_stalk_descr">
+		<text>Базовая защита от радиоактивной пыли и токсичных аэрозолей</text>
+	</string>
+	<string id="st_upg_antistatic_coating_stalk">
+		<text>Антистатическая пропитка</text>
+	</string>
+	<string id="st_upg_antistatic_coating_stalk_descr">
+		<text>Спрей предотвращает прилипание пыли и радиоактивных химикатов к одежде</text>
+	</string>
+	<string id="st_upg_artefact_slot">
+		<text>Емкости с вещами</text>
+	</string>
+	<string id="st_upg_artefact_slot_descr">
+		<text>Другие контейнеры для материалов</text>
+	</string>
+	<string id="st_upg_brigandine_suit_stalk">
+		<text>Брезентовый комбинезон</text>
+	</string>
+	<string id="st_upg_brigandine_suit_stalk_descr">
+		<text>Благодаря специальной пропитке он хорошо защищен от пожара и поражения электрическим током</text>
+	</string>
+	<string id="st_upg_butt_recoil3">
+		<text>Легкие летучие мыши</text>
+	</string>
+	<string id="st_upg_butt_recoil4">
+		<text>Номопреклад</text>
+	</string>
+	<string id="st_upg_calibre_5_45">
+		<text>Диаметр круга составляет 5,45*39 мм</text>
+	</string>
+	<string id="st_upg_calibre_5_45_descr">
+		<text>Такая замена может быть произведена только один раз, поскольку она включает в себя замену ствола и крепежных деталей на новый калибр.</text>
+	</string>
+	<string id="st_upg_calibre_5_56">
+		<text>Калибр 5,56 * 45 мм</text>
+	</string>
+	<string id="st_upg_calibre_5_56_descr">
+		<text>Такая замена может быть произведена только один раз, поскольку она включает в себя замену ствола и крепежных деталей на новый калибр.</text>
+	</string>
+	<string id="st_upg_calibre_9_18">
+		<text>Калибр 9-18 мм</text>
+	</string>
+	<string id="st_upg_calibre_9_18_descr">
+		<text>Такая замена может быть произведена только один раз, поскольку она предполагает замену ствола и крепежных деталей на новый калибр.</text>
+	</string>
+	<string id="st_upg_calibre_9_19">
+		<text>Калибр 9-19 мм</text>
+	</string>
+	<string id="st_upg_calibre_9_19_descr">
+		<text>Такая замена может быть произведена только один раз, поскольку она предполагает замену ствола и крепежных деталей на новый калибр.</text>
+	</string>
+	<string id="st_upg_cevlar_body_armor_battle">
+		<text>Кевларовый пуленепробиваемый жилет</text>
+	</string>
+	<string id="st_upg_cevlar_body_armor_battle_descr">
+		<text>Сделанный из многослойного кевлара, он останавливал пистолетную пулю и хорошо стрелял</text>
+	</string>
+	<string id="st_upg_cevlars_armor_battle">
+		<text>Кевларовый диск</text>
+	</string>
+	<string id="st_upg_cevlars_armor_battle_descr">
+		<text>Они заправлены в пуленепробиваемый жилет, обеспечивая дополнительную защиту владельцу</text>
+	</string>
+	<string id="st_upg_composite_armor_battle">
+		<text>Композитная панель</text>
+	</string>
+	<string id="st_upg_composite_armor_battle_descr">
+		<text>Обеспечивает надежную защиту от пистолетов</text>
+	</string>
+	<string id="st_upg_double_layer_body_armor_battle">
+		<text>Двухслойный пуленепробиваемый жилет</text>
+	</string>
+	<string id="st_upg_double_layer_body_armor_battle_descr">
+		<text>Обеспечивает хорошую защиту для пользователя, даже если первый слой поврежден</text>
+	</string>
+	<string id="st_upg_electro_stimulant_battle">
+		<text>Электрический катализатор</text>
+	</string>
+	<string id="st_upg_electro_stimulant_battle_descr">
+		<text>Небольшое устройство, формирующее микроимпульсы, улучшающие функционирование внутренних органов и тканей человеческого организма</text>
+	</string>
+	<string id="st_upg_exsternal_filtering_sys_stalk">
+		<text>Внешняя фильтрующая система</text>
+	</string>
+	<string id="st_upg_exsternal_filtering_sys_stalk_descr">
+		<text>Вы можете использовать больше фильтров, разместив их снаружи противогаза</text>
+	</string>
+	<string id="st_upg_germetic_layer_stalk">
+		<text>Закрытый изолирующий слой</text>
+	</string>
+	<string id="st_upg_germetic_layer_stalk_descr">
+		<text>Наносится на костюм, защищает от открытого огня и поражения электрическим током</text>
+	</string>
+	<string id="st_upg_hard_barrel_curved">
+		<text>Замена ствола</text>
+	</string>
+	<string id="st_upg_hard_barrel_curved_descr">
+		<text>Прочные стальные стволы не подвергаются деформации даже при интенсивной стрельбе, что повышает боевую точность оружия</text>
+	</string>
+	<string id="st_upg_hard_elements_battle">
+		<text>Жесткий элемент</text>
+	</string>
+	<string id="st_upg_hard_elements_battle_descr">
+		<text>Легкосплавная рама поглощает большую часть энергии пули</text>
+	</string>
+	<string id="st_upg_health_sustaining_sys_battle">
+		<text>Система жизнеобеспечения</text>
+	</string>
+	<string id="st_upg_health_sustaining_sys_battle_descr">
+		<text>Компьютерная система, размещенная на запястье, автоматически вводит в вену ударопрочные и стимулирующие препараты, если владелец получил травму</text>
+	</string>
+	<string id="st_upg_night_vision_battle">
+		<text>Оборудование ночного видения</text>
+	</string>
+	<string id="st_upg_night_vision_battle_descr">
+		<text>Первое поколение приборов ночного видения</text>
+	</string>
+	<string id="st_upg_outfit_a_stalk">
+		<text>Демонтаж куртки</text>
+	</string>
+	<string id="st_upg_outfit_a_stalk_descr">
+		<text>Это облегчает транспортировку вещей и равномерно распределяет лишний вес по телу</text>
+	</string>
+	<string id="st_upg_outfit_b_stalk">
+		<text>Распакуйте рюкзак</text>
+	</string>
+	<string id="st_upg_outfit_b_stalk_descr">
+		<text>Специальные крепления облегчают переноску рюкзака, что позволяет с комфортом переносить больший вес</text>
+	</string>
+	<string id="st_upg_plastic_components_battle">
+		<text>Часть пластика</text>
+	</string>
+	<string id="st_upg_plastic_components_battle_descr">
+		<text>Дополнительная информация костюм для повышенной износостойкости</text>
+	</string>
+	<string id="st_upg_polymer_coating_stalk">
+		<text>Полимерная пропитка</text>
+	</string>
+	<string id="st_upg_polymer_coating_stalk_descr">
+		<text>Погружение в жидкую полимерную композицию делает материал костюма более устойчивым к воздействию открытого пламени и тока</text>
+	</string>
+	<string id="st_upg_polymer_pillow_battle">
+		<text>Полимерные концентраты</text>
+	</string>
+	<string id="st_upg_polymer_pillow_battle_descr">
+		<text>Детали костюма, который идеально поглощает энергию пули</text>
+	</string>
+	<string id="st_upg_polymer_suit_stalk">
+		<text>Комбинезон из полимерного материала</text>
+	</string>
+	<string id="st_upg_polymer_suit_stalk_descr">
+		<text>Защищает от воздействия слишком высокой температуры и электрического тока</text>
+	</string>
+	<string id="st_upg_powered_carcass_battle">
+		<text>Усиленная рама</text>
+	</string>
+	<string id="st_upg_powered_carcass_battle_descr">
+		<text>Дополнительные элементы увеличивают прочность экзоскелета</text>
+	</string>
+	<string id="st_upg_powered_servo_motor_battle">
+		<text>Продвижение серводвигателя</text>
+	</string>
+	<string id="st_upg_powered_servo_motor_battle_descr">
+		<text>Изменения в серводвигателе увеличивают его мощность</text>
+	</string>
+	<string id="st_upg_psy_shielding_stalk">
+		<text>Осмотр одежды</text>
+	</string>
+	<string id="st_upg_psy_shielding_stalk_descr">
+		<text>Сложная система тонких кабелей обеспечивает защиту носителя от воздействия PCI.</text>
+	</string>
+	<string id="st_upg_recycle_breathing_sys_stalk">
+		<text>Дыхательная система закрыта</text>
+	</string>
+	<string id="st_upg_recycle_breathing_sys_stalk_descr">
+		<text>Закрытая система циркуляции воздуха избавляет танкистов от необходимости дышать загрязненным воздухом.</text>
+	</string>
+	<string id="st_upg_relax_suit_stalk">
+		<text>Костюм для балансировки нагрузки</text>
+	</string>
+	<string id="st_upg_relax_suit_stalk_descr">
+		<text>Эластичная резинка костюма помогает владельцу легко выдерживать длительную нагрузку</text>
+	</string>
+	<string id="st_upg_scope_1_6x_opt">
+		<text>Встроенный прицел 1.6 x</text>
+	</string>
+	<string id="st_upg_scope_1_6x_opt_descr">
+		<text>1,6-кратные прицелы, предназначенные для атаки</text>
+	</string>
+	<string id="st_upg_scope_4x_opt">
+		<text>Встроенный 4-кратный прицел</text>
+	</string>
+	<string id="st_upg_scope_4x_opt_descr">
+		<text>Снайперская версия предназначена для переоборудования широкого спектра стрелкового оружия</text>
+	</string>
+	<string id="st_upg_sintetic_pillow_battle">
+		<text>Синтетическая прокладка</text>
+	</string>
+	<string id="st_upg_sintetic_pillow_battle_descr">
+		<text>Размещенные под бронежилетом, они поглощают значительную часть энергии пули</text>
+	</string>
+	<string id="st_upg_slice_leather_battle">
+		<text>Более толстая кожа</text>
+	</string>
+	<string id="st_upg_slice_leather_battle_descr">
+		<text>Помещается под пуленепробиваемый жилет, чтобы частично поглотить энергию пули</text>
+	</string>
+	<string id="st_upg_spec_coating_stalk">
+		<text>Специальное покрытие</text>
+	</string>
+	<string id="st_upg_spec_coating_stalk_descr">
+		<text>После того, как полученный материал пропитан необычным для данной местности материалом, костюм начинает хорошо защищать владельца от воздействия открытого пламени и электрического тока</text>
+	</string>
+	<string id="st_upg_spectra_body_armor_battle">
+		<text>Бронежилет "Спектр"</text>
+	</string>
+	<string id="st_upg_spectra_body_armor_battle_descr">
+		<text>Усиленные военные пуленепробиваемые жилеты, защищающие владельца от пуль из ручных пистолетов</text>
+	</string>
+	<string id="st_upg_upgrade_night_vision_battle">
+		<text>Оборудование ночного видения</text>
+	</string>
+	<string id="st_upg_upgrade_night_vision_battle_descr">
+		<text>Второе поколение приборов ночного видения. У него меньше помех и, следовательно, более четкая "картинка".</text>
+	</string>
+	<string id="st_upgr_ammunition">
+		<text>Картридж</text>
+	</string>
+	<string id="st_upgr_condlist">
+		<text>Здесь нет места для улучшения</text>
+	</string>
+	<string id="st_upgr_cost">
+		<text>Стоимость</text>
+	</string>
+	<string id="st_upgr_disable">
+		<text>Не удается установить</text>
+	</string>
+	<string id="st_upgr_enough_money">
+		<text>Не хватает денег:</text>
+	</string>
+	<string id="st_upgr_group">
+		<text>Эта часть уже изменилась</text>
+	</string>
+	<string id="st_upgr_installed">
+		<text>Устанавливать</text>
+	</string>
+	<string id="st_upgr_parents">
+		<text>Другие изменения, необходимые для установки</text>
+	</string>
+	<string id="st_upgr_rpm_lowered">
+		<text>Низкая скорострельность</text>
+	</string>
+	<string id="st_upgrade_install">
+		<text>Вы действительно хотите установить:</text>
+	</string>
+</string_table>

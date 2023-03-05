@@ -1,0 +1,15 @@
+wpn_beretta ammo_9x19_fmj ammo_9x19_pbp
+wpn_colt1911 ammo_11.43x23_fmj ammo_11.43x23_hydro
+wpn_colt1911_up2 ammo_11.43x23_fmj ammo_11.43x23_hydro
+wpn_desert_eagle ammo_11.43x23_fmj ammo_11.43x23_hydro
+wpn_fort ammo_9x18_fmj ammo_9x18_pmm
+wpn_fort_up ammo_9x18_fmj ammo_9x18_pmm
+wpn_hpsa ammo_9x19_fmj ammo_9x19_pbp
+wpn_pb ammo_9x18_fmj ammo_9x18_pmm
+wpn_pm ammo_9x18_fmj ammo_9x18_pmm
+wpn_pm_up ammo_9x18_fmj ammo_9x18_pmm
+wpn_pm_9x19 ammo_9x19_fmj ammo_9x19_pbp
+wpn_sig220 ammo_11.43x23_fmj ammo_11.43x23_hydro
+wpn_usp ammo_11.43x23_fmj ammo_11.43x23_hydro
+wpn_walther ammo_9x19_fmj ammo_9x19_pbp
+wpn_walther_up2 ammo_9x19_fmj ammo_9x19_pbp

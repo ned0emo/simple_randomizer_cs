@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="Btn_Cancel">
+		<text>Отмена</text>
+	</string>
+	<string id="Btn_No">
+		<text>Нет.</text>
+	</string>
+	<string id="Btn_OK">
+		<text>В порядке</text>
+	</string>
+	<string id="Btn_Yes">
+		<text>Да</text>
+	</string>
+	<string id="bad">
+		<text>Плохой.</text>
+	</string>
+	<string id="enemy">
+		<text>Враг</text>
+	</string>
+	<string id="excellent">
+		<text>Невероятно!</text>
+	</string>
+	<string id="experienced">
+		<text>Опытный</text>
+	</string>
+	<string id="friendly">
+		<text>Друг.</text>
+	</string>
+	<string id="global_map">
+		<text>Карта регионов</text>
+	</string>
+	<string id="good">
+		<text>И...</text>
+	</string>
+	<string id="id_mp_money">
+		<text>Деньги</text>
+	</string>
+	<string id="indifferent">
+		<text>Это не имеет значения.</text>
+	</string>
+	<string id="master">
+		<text>Мастер</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Бонусный персональный цифровой помощник</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Допускается только один действительный голос</text>
+	</string>
+	<string id="neutral">
+		<text>Нейтральный</text>
+	</string>
+	<string id="novice">
+		<text>Начинающий</text>
+	</string>
+	<string id="st_audio">
+		<text>Звук</text>
+	</string>
+	<string id="st_bolt">
+		<text>Пин-код</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>Клиент: контактное лицо</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>Клиент: создать</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>Клиент: синхронизация</text>
+	</string>
+	<string id="st_controll">
+		<text>Администрация</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>Создание новой игры</text>
+	</string>
+	<string id="st_drink">
+		<text>Пить</text>
+	</string>
+	<string id="st_game">
+		<text>Игра</text>
+	</string>
+	<string id="st_item_used">
+		<text>Использование</text>
+	</string>
+	<string id="st_items">
+		<text>Предмет</text>
+	</string>
+	<string id="st_level">
+		<text>Ранг</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Скачать объекты искусственного интеллекта</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Сервер: скачать симулятор жизни</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Загрузка формата объекта</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Подробная информация о загрузке</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Скачать геометрию</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Скачать игру</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Погрузочные площадки и ворота</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Скачать оттенки</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Загрузите базу данных для space</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Загрузка текстур</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Прямая интеллектуальная собственность</text>
+	</string>
+	<string id="st_no_active_task">
+		<text>Активных задач нет</text>
+	</string>
+	<string id="st_not_enough_money">
+		<text>Не хватает денег</text>
+	</string>
+	<string id="st_not_enough_money_npc">
+		<text>Народному собранию не хватает денег</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Открытая мощность</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Объектная кэш-память</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>Подключение к серверу</text>
+	</string>
+	<string id="st_server_starting">
+		<text>Сервер: запуск</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Проверка ключа</text>
+	</string>
+	<string id="st_video">
+		<text>Видео</text>
+	</string>
+	<string id="terrible">
+		<text>-----</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Отмена</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>Нет.</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>В порядке</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Да</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Вы не можете выполнить другой просмотр на своем компьютере</text>
+	</string>
+	<string id="ui_st_community">
+		<text>Коллекция</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Ошибка подключения: ключ компакт-диска заблокирован. Обратитесь в службу поддержки.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Ошибка подключения: этот ключ компакт-диска уже используется</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Ошибка подключения: ключ компакт-диска недействителен</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Ошибка подключения: Недопустимый сервер</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Ошибка подключения: неверный пароль</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Доступны новые патчи. \N версия: % IMAGE \ n % image \ N Вы хотите загрузить его сейчас?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Новых мест нет</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Ошибка подключения: соединение с сервером остановлено</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Ошибка подключения: сервер заполнен</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Ошибка подключения: другая версия</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Подключение к главному серверу</text>
+	</string>
+	<string id="ui_st_days">
+		<text>Дни.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Неправильный.</text>
+	</string>
+	<string id="ui_st_error_loading">
+		<text>Чтение ошибки</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Файл с таким именем уже существует. Ты хочешь загладить свою вину передо мной?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Имя файла пустое</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>Время вышло.</text>
+	</string>
+	<string id="ui_st_kicked_by_server">
+		<text>Это снаружи. Причина:</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Покидать</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>При загрузке игры несохраненные данные будут потеряны. Вы хотите продолжить?</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>Мне.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>Месяц...</text>
+	</string>
+	<string id="ui_st_opponent_items">
+		<text>Рюкзак</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Учитель</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Я не могу его скачать.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Патч сработал. Вы хотите его установить?</text>
+	</string>
+	<string id="ui_st_price">
+		<text>Цена</text>
+	</string>
+	<string id="ui_st_rank">
+		<text>Ранг</text>
+	</string>
+	<string id="ui_st_relation">
+		<text>Отношение</text>
+	</string>
+	<string id="ui_st_reputation">
+		<text>Репутация</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>Второй</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Выберите хотя бы одну карту</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Возьми все</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Покидать</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Коммерция</text>
+	</string>
+	<string id="ui_st_upgrade">
+		<text>Улучшить</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Ошибочное голосование</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Вы действительно хотите выйти из игры?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Вопрос съемки игры</text>
+	</string>
+	<string id="very_bad">
+		<text>Прошу прощения.</text>
+	</string>
+	<string id="very_good">
+		<text>Хорошо.</text>
+	</string>
+	<string id="veteran">
+		<text>Ветераны боевых действий</text>
+	</string>
+	<string id="st_no_buck">
+		<text>Не делайте никаких выстрелов.</text>
+	</string>
+	<string id="st_rubles">
+		<text>Музей Лувр</text>
+	</string>
+	<string id="ui_inv_repair">
+		<text>Ремонт</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Ремонт</text>
+	</string>
+	<string id="ui_total_price">
+		<text>Весь</text>
+	</string>
+	<string id="lim_bandit_ambush_spot">
+		<text>Попавший в засаду бандитов</text>
+	</string>
+	<string id="ui_st_kicked_by_battleye">
+		<text>Боевая защита была отменена:</text>
+	</string>
+</string_table>

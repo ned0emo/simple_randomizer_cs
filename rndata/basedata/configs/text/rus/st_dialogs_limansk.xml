@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="lim_bandit_wounded_dialog_1_11">
+		<text>Помогите мне! Окажите мне первую помощь. Мой друг мертв!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_111">
+		<text>Вот, держи.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1111">
+		<text>Теперь я помогаю своему другу.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_112">
+		<text>Извините. У меня нет аптечки первой помощи.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_1121">
+		<text>Всё...</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_1_113">
+		<text>У тебя будет стервозное лицо.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_11">
+		<text>Спасибо, я помог. Неподалеку рыжеволосые парни устраивают вам засаду, пока вы наблюдаете, как вы въезжаете в город. Рядом с машиной есть растяжка, поэтому вам нужно находиться на правой стороне улицы.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_111">
+		<text>Кто еще сейчас в городе?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1111">
+		<text>Здесь уже много людей, но все в беспорядке! Класс "долг" и "свобода" отправился в центр города - возможно, он ищет проход в глубь района. Мы видели несколько вертолетов, так что, возможно, армия тоже захватила город. Есть также несколько сталкеров, но они приходят с другой стороны, в середине зоны.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_112">
+		<text>Что происходит в городе?</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_1121">
+		<text>Братва и хелок застряли в доме на улице, они больше не беспокоятся. Если вы хотите поехать в город, вы должны вытащить их из дома.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_113">
+		<text>Вот, держи. Вари еще не застрелил его.</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_12">
+		<text>Мы должны убираться Отсюда Сейчас же!</text>
+	</string>
+	<string id="lim_bandit_wounded_dialog_2_121">
+		<text>Все вон.</text>
+	</string>
+</string_table>

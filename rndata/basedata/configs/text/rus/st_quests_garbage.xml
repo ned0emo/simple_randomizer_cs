@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="gar_defend_bandit_base_name">
+		<text>Защитите базу от бандитов</text>
+	</string>
+	<string id="gar_defend_bandit_base_text">
+		<text>Защитите бандитскую базу от вражеских атак</text>
+	</string>
+	<string id="gar_quest_bring_money_name">
+		<text>Например, приведи Элвина, когда стемнеет.</text>
+	</string>
+	<string id="gar_quest_bring_money_text">
+		<text>Купите пакеты с лекарствами от диких зверей на блошином рынке за несколько тысяч. Распродажа такого размера на блошином рынке происходит только ночью, после наступления темноты.</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_name">
+		<text>Импортируйте, например, старый КПК</text>
+	</string>
+	<string id="gar_quest_bring_old_pda_text">
+		<text>Старый КПК, спрятанный под фальшивым дном ящика с инструментами в разрушенном лагере первокурсников, привезен на блошиный рынок.</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_name">
+		<text>Убей предателя.</text>
+	</string>
+	<string id="gar_quest_destroy_ambush_text">
+		<text>Убейте мешок с нитками, который заманил вас в засаду.</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_name">
+		<text>Штурм блошиного рынка с бандитами</text>
+	</string>
+	<string id="gar_quest_destroy_flea_market_text">
+		<text>Организуйте показательную расправу над диггерами на блошином рынке и позаботьтесь о том, чтобы один из бандитов остался там в качестве охранника.</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_name">
+		<text>Возьми свой старый КПК в ящике с инструментами</text>
+	</string>
+	<string id="gar_quest_get_old_pda_box_text">
+		<text>Возьмем старый КПК в качестве дикого примера нового лагеря. КПК следует поместить не под ту нижнюю часть панели инструментов.</text>
+	</string>
+	<string id="gar_quest_get_old_pda_name">
+		<text>Возьмите старый КПК в новом лагере</text>
+	</string>
+	<string id="gar_quest_get_old_pda_text">
+		<text>Возьмите старый КПК из учебного лагеря для первокурсников в качестве дикого примера. Если новый ученик не сидит, положите КПК не в ту нижнюю часть ящика с инструментами.</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_name">
+		<text>Собирание вещей из тела в авоську</text>
+	</string>
+	<string id="gar_quest_get_traitor_pda_text">
+		<text>Найдите рамку для сумки на цепочке и возьмите все, что вас интересует</text>
+	</string>
+	<string id="gar_quest_get_weapons_name">
+		<text>Принесите две тысячи мешков бечевки</text>
+	</string>
+	<string id="gar_quest_get_weapons_text">
+		<text>Он привез две тысячи мешков ниток, чтобы купить кучу контрабандного оружия.</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_name">
+		<text>Как убрать человека по имени авоська</text>
+	</string>
+	<string id="gar_quest_kill_digger_traitor_text">
+		<text>Как снять конкретную сумку-цепочку, которую заказала йога</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_name">
+		<text>Уберите отсюда контрабандистов и землекопов.</text>
+	</string>
+	<string id="gar_quest_kill_smuggler_text">
+		<text>Уничтожайте контрабандистов и искателей, которые хотят купить у него кучу оружия</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_name">
+		<text>Уничтожение Ночного охотника</text>
+	</string>
+	<string id="gar_quest_killer_pseudodogs_text">
+		<text>Найдите и убейте существ, охотящихся на копателей. Поиски могли начаться после того, как они разогнали группу выживших диггеров. В большинстве случаев вы можете встретиться только ночью.</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_name">
+		<text>Уничтожение охраны концлагеря бандитами</text>
+	</string>
+	<string id="gar_quest_liberate_conc_camp_text">
+		<text>Освободите заключенных вместе с командой землекопов, уничтожив охранников концентрационного лагеря грабителей</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_name">
+		<text>Познакомьтесь с группой землекопов</text>
+	</string>
+	<string id="gar_quest_meet_with_digger_fighters_text">
+		<text>Встретьтесь с группой искателей, чтобы повести их в атаку на концентрационный лагерь бандитов</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_name">
+		<text>Разговаривает с дикарями</text>
+	</string>
+	<string id="gar_quest_speak_with_quester_text">
+		<text>От Диких зверей с блошиного рынка до важного дела, которое у него есть для вас</text>
+	</string>
+	<string id="gar_story_chase_digger_name">
+		<text>Получайте информацию от digger Messenger.</text>
+	</string>
+	<string id="gar_story_chase_digger_text">
+		<text>Выясните у владельца магазина, куда делись клыки.</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_name">
+		<text>В поисках клыков</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_cellar_text">
+		<text>Найдите клыки в подвале, отслеживая сигналы на его КПК.</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_name">
+		<text>Ловящие клыки</text>
+	</string>
+	<string id="gar_story_chase_pda_signal_text">
+		<text>Ловит клыки, отслеживая сигналы на своем КПК</text>
+	</string>
+	<string id="gar_story_find_cache_name">
+		<text>Найди укромное место</text>
+	</string>
+	<string id="gar_story_find_cache_text">
+		<text>Найдите укрытие для группы КЛЫКОВ</text>
+	</string>
+	<string id="gar_story_find_diggers_name">
+		<text>Получите информацию о бивнях от диггеров.</text>
+	</string>
+	<string id="gar_story_find_diggers_text">
+		<text>По словам владельца магазина, он отправился к копателю, чтобы найти местонахождение клыков.</text>
+	</string>
+	<string id="gar_story_get_pda_name">
+		<text>Поднимаю КПК "КЛЫК"</text>
+	</string>
+	<string id="gar_story_get_pda_text">
+		<text>Поднимите КПК, брошенный Фангом</text>
+	</string>
+	<string id="gar_story_go_to_freedom_name">
+		<text>Отправляйтесь за клыками темной долины</text>
+	</string>
+	<string id="gar_story_go_to_freedom_text">
+		<text>Отправляйся в темную долину за клыками</text>
+	</string>
+	<string id="gar_story_kill_dogs_name">
+		<text>Убийство слепой собаки</text>
+	</string>
+	<string id="gar_story_kill_dogs_text">
+		<text>Слепая собака, которая запирает лавку в долине вестника, была убита</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_name">
+		<text>Нахождение тела в магазине</text>
+	</string>
+	<string id="gar_story_search_digger_bodies_text">
+		<text>Поиск информации о "клыках"</text>
+	</string>
+	<string id="gar_quest_bandit_reward_name">
+		<text>Возьмите приз за зубы</text>
+	</string>
+	<string id="gar_quest_bandit_reward_text">
+		<text>Получайте награды за уборку блошиного рынка от дилеров-стоматологов.</text>
+	</string>
+	<string id="gar_quest_bandit_secret_name">
+		<text>Забрать гроб из неестественного логова</text>
+	</string>
+	<string id="gar_quest_bandit_secret_text">
+		<text>Возьмите йогу сундука, о которой он говорил, из "логова странностей".</text>
+	</string>
+	<string id="gar_quest_captive_reward_name">
+		<text>Скрытая рыбалка</text>
+	</string>
+	<string id="gar_quest_captive_reward_text">
+		<text>Соберите добычу в старом тайнике с находками, освобожденными из концентрационного лагеря воров.</text>
+	</string>
+	<string id="gar_quest_more_reward_name">
+		<text>Йога требует вознаграждений</text>
+	</string>
+	<string id="gar_quest_more_reward_text">
+		<text>Попросите у йоги дополнительные бонусы за уборку блошиного рынка.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_name">
+		<text>Найдите информацию об улучшении бронежилета.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_aceg_scientific_outfit_text">
+		<text>Вам нужно принести информацию о прозрачной бутылке и усиленном военном бронежилете, после чего он сможет создать нечто подобное.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_name">
+		<text>Найдите информацию о проверке одежды</text>
+	</string>
+	<string id="st_gar_find_flesh_up_bdfh_scientific_outfit_text">
+		<text>Но, что удивительно, transparency не слышала о последствиях этой инициативы. Но если к нему попадет нужная информация, он сможет собрать и установить на скафандр одну из этих систем радиационной защиты.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_name">
+		<text>Распознайте закрытые дыхательные пути.</text>
+	</string>
+	<string id="st_gar_find_flesh_up_fh_scientific_outfit_text">
+		<text>Техники в нижней части корпуса - прозрачные - могут вносить практически любые изменения, но установка закрытой дыхательной системы в скафандре требует дополнительной информации.</text>
+	</string>
+	<string id="gar_quest_redemption_name">
+		<text>Верни свои вещи, верни свои вещи обратно.</text>
+	</string>
+	<string id="gar_quest_redemption_text">
+		<text>Верните предметы, которые бандиты унесли в подвал рядом с блошиным рынком.</text>
+	</string>
+	<string id="gar_recover_item_1_name">
+		<text>Возвращение охотника-13.</text>
+	</string>
+	<string id="gar_recover_item_1_text">
+		<text>Вот что здесь произошло: один из наших братьев... Как его зовут?.. Я догнал парня на экскаваторе и, пошутив, решил взять его на прогулку среди аномалий. Очевидно, камешки раздавили их обоих, но мой преследователь остался там. Если бы я получил его обратно, он был бы толстым.</text>
+	</string>
+	<string id="gar_recover_item_2_name">
+		<text>Поиск модифицированного оружия</text>
+	</string>
+	<string id="gar_recover_item_2_text">
+		<text>Ты можешь помочь. Недавно мы сидели в прозрачном, но у него было холодное тело для вида- нужен Волин, все навороты и все такое, что нынешний tebook'ов ничего не делит с пашет, и йога сказал нам, что этого Феррейру долго искали и не могли найти. Это было. Мы ехали, что нехарактерно для нас, без шума. Но Волин остался с ним. Вот этот гроб для меня, я согласен с зубами, он обычно дарит вам Папос.</text>
+	</string>
+	<string id="gar_recover_item_3_name">
+		<text>Принесите бутылку водки "Казачья"</text>
+	</string>
+	<string id="gar_recover_item_3_text">
+		<text>Кореш, будь другом, возьми немного воды, все бьются, не только этот бледный. Я спрятала пару обычных винтажных пузырьков, раньше ходила одна, но сейчас не могу, я занята. Я не знаю, где выпивка, но я у тебя в долгу.</text>
+	</string>
+	<string id="gar_recover_item_4_name">
+		<text>Возвращение куртки новичка</text>
+	</string>
+	<string id="gar_recover_item_4_text">
+		<text>Недавно к нам пришел мужчина из "Гирлянды", одной из зеленых и ужасно надоедливых. Он всем прожужжал в уши, что аномалия вообще не снимает его стильную куртку. Говорят, что, хотя он и попал в лапы грабителей, он не мог закрыть рот, пока они не привели его к гравию. Обычно мальчик был прав, упокой Господь его душу, а пальто - хоть бы хны. Если вы получите его обратно, вы найдете ему применение.</text>
+	</string>
+	<string id="gar_recover_item_5_name">
+		<text>Принесите оружие лично</text>
+	</string>
+	<string id="gar_recover_item_5_text">
+		<text>Да, вы можете помочь. У меня был пистолет, но ничем не выделялся, кроме личного, который достался мне от дедушки. Я потерял его в перестрелке... Пьяные, они решили напугать бандитов ночью. Как только стемнело, они пробрались в лагерь, который мы заметили ранее днем, и начали рисовать монстров при каждом звуке. Просто оказалось, что бандитов больше не было, и у нас закончились два окровавленных человека. Я едва оторвал ногу, но пистолет оставил там.</text>
+	</string>
+</string_table>
