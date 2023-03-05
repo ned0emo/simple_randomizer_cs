@@ -1,6 +1,0 @@
-actor
-escape_trader
-esc_zak_stalkerbase
-esc_zak_stalkerbase_2
-red_forester_tech
-stc_strelok
