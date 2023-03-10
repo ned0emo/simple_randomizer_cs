@@ -10,21 +10,107 @@ const val pathToMisc = "./rndata/basedata/configs/misc"
 const val pathToGameplay = "./rndata/basedata/configs/gameplay"
 const val pathToText = "./rndata/basedata/configs/text"
 
-const val sourceLink = "___"
+const val sourceLink = "https://github.com/ned0emo/simple_randomizer_cs"
+
+const val separator = "---------------------------------------------------------------------"
+
+open class Translation(
+    val greetings: String,
+    val fileReadingError: String,
+    val fileCreationError: String,
+    val folderReadingError: String,
+    val folderCreationError: String,
+    val folderCopyingError: String,
+    val itsFolderNotAFile: String,
+    val continueInput: String,
+    val changeEquip: String,
+    val npcError: String,
+    val changeWeapons: String,
+    val weaponsError: String,
+    val changeArtefacts: String,
+    val artefactsError: String,
+    val changeOutfit: String,
+    val outfitError: String,
+    val changeStashes: String,
+    val stashesError: String,
+    val applyTranslate: String,
+    val translateError: String,
+    val allErrorsMessage: String
+)
+
+class EngTranslation : Translation(
+    greetings =
+    "Welcome to the program for randomization of some gameplay elements of S.T.A.L.K.E.R. Clear Sky\n" +
+            "Unfortunately, the stalker's developers have ruined the game with scripts, so there will be no change of\n" +
+            "groupings and NPC voice acting, unlike the Shadow Of Chernobyl randomizer\n" +
+            "To select an action, write one of these numbers to the console and press Enter\n" +
+            "Link to the source code: $sourceLink\n" +
+            "Developer: ned0emo\n" +
+            "Version 1.0\n" +
+            "2 - generate all\n" +
+            "1 - choose what to generate\n" +
+            "0 - exit:",
+    fileReadingError = "File reading error",
+    fileCreationError = "File creation error",
+    folderReadingError = "Directory reading error",
+    folderCreationError = "Directory creation error",
+    folderCopyingError = "Directory copying error",
+    itsFolderNotAFile = "This is a directory, a file is required",
+    continueInput = "To continue, press Enter...",
+    changeEquip = "Change the NPC equipment? 1 - yes, 0 - no: ",
+    npcError = "NPC processing error. Operation aborted",
+    changeWeapons = "Change weapon stats? 1 - yes, 0 - no: ",
+    weaponsError = "Weapon handling error. Operation aborted",
+    changeArtefacts = "Change artifact stats? 1 - yes, 0 - no: ",
+    artefactsError = "Artifact processing error. Operation aborted",
+    changeOutfit = "Change armor stats? 1 - yes, 0 - no: ",
+    outfitError = "Armor processing error. Operation aborted",
+    changeStashes = "Change the contents of caches? 1 - yes, 0 - no: ",
+    stashesError = "Cache handling error. Operation aborted",
+    applyTranslate = "Apply an odd translation (only russian game version)? 1 - yes, 0 - no: ",
+    translateError = "Error in processing a jamb transfer. Operation aborted",
+    allErrorsMessage = "The following errors occurred while the program was running:\n"
+)
+
+class RusTranslation : Translation(
+    greetings = "WelCUM в программу для рандомизации некоторой дичи в ЧН\n" +
+            "К сожалению, разрабы сталкера испоганили игру скриптами, потому смены группировок " +
+            "и озвучки НПС, в отличие от рандомайзера ТЧ, тут не будет\n" +
+            "Да, без графического интерфейса, потому что теперь я линуксоид без нормального C#\n\n" +
+            "Для выбора действия напиши одну из указанных цифр в консоль и нажми Enter\n\n" +
+            "Ссыль на исходный код: $sourceLink\n" +
+            "Разработчик: ned0emo\n" +
+            "Версия 1.0\n" +
+            "-----------------------------------------------------------------\n" +
+            "2 - сгенерировать всё\n1 - выбрать, что генерировать\n0 - выход: ",
+    fileReadingError = "Ошибка чтения файла",
+    fileCreationError = "Ошибка создания файла",
+    folderReadingError = "Ошибка чтения директории",
+    folderCreationError = "Ошибка создания директории",
+    folderCopyingError = "Ошибка копирования директории",
+    itsFolderNotAFile = "Это директория, требуется файл",
+    continueInput = "Для продолжения нажмите Enter...",
+    changeEquip = "Изменять экипировку НПС? 1 - да, 0 - нет: ",
+    npcError = "Ошибка обработки НПС. Операция прервана",
+    changeWeapons = "Изменять статы оружия? 1 - да, 0 - нет: ",
+    weaponsError = "Ошибка обработки оружия. Операция прервана",
+    changeArtefacts = "Изменять статы артефактов? 1 - да, 0 - нет: ",
+    artefactsError = "Ошибка обработки артефактов. Операция прервана",
+    changeOutfit = "Изменять статы брони? 1 - да, 0 - нет: ",
+    outfitError = "Ошибка обработки брони. Операция прервана",
+    changeStashes = "Изменять содержимое тайников? 1 - да, 0 - нет: ",
+    stashesError = "Ошибка обработки тайников. Операция прервана",
+    applyTranslate = "Применить кривой перевод? 1 - да, 0 - нет: ",
+    translateError = "Ошибка обработки косячного перевода. Операция прервана",
+    allErrorsMessage = "При работе программы возникли следующие ошибки:\n"
+)
 
 fun main(args: Array<String>) {
-    println(
-        "WelCUM в программу для рандомизации некоторой дичи в ЧН\n" +
-                "К сожалению, разрабы сталкера испоганили игру скриптами, потому смены группировок " +
-                "и озвучки НПС, в отличие от рандомайзера ТЧ, тут не будет\n" +
-                "Да, без графического интерфейса, потому что теперь я линуксоид без нормального C#\n\n" +
-                "Для выбора действия напиши одну из указанных цифр в консоль и нажми Enter\n\n" +
-                "Ссыль на исходный код: $sourceLink\n" +
-                "Разработчик: ned0emo\n" +
-                "Версия 1.0\n" +
-                "-----------------------------------------------------------------\n" +
-                "2 - сгенерировать всё\n1 - выбрать, что генерировать\n0 - выход: "
-    )
+    val language = if (args.isNotEmpty() && args[0] == "-eng") {
+        EngTranslation()
+    } else RusTranslation()
+
+    println(language.greetings)
 
     var answer: String?
     do {
@@ -38,127 +124,126 @@ fun main(args: Array<String>) {
 
     val artefactsFile = File(pathToRndata, "af.txt")
     val artefacts = if (artefactsFile.canRead()) artefactsFile.readLines() else {
-        errorMap["artefacts.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["artefacts.txt"] = language.fileReadingError
         listOf()
     }
     val ammosFile = File(pathToRndata, "ammos.txt")
     val ammos = if (ammosFile.canRead()) ammosFile.readLines() else {
-        errorMap["ammos.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["ammos.txt"] = language.fileReadingError
         listOf()
     }
     val devicesFile = File(pathToRndata, "devices.txt")
     val devices = if (devicesFile.canRead()) devicesFile.readLines() else {
-        errorMap["devices.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["devices.txt"] = language.fileReadingError
         listOf()
     }
     val itemsFile = File(pathToRndata, "items.txt")
     val items = if (itemsFile.canRead()) itemsFile.readLines() else {
-        errorMap["items.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["items.txt"] = language.fileReadingError
         listOf()
     }
     val outfitFile = File(pathToRndata, "outfit.txt")
     val outfits = if (outfitFile.canRead()) outfitFile.readLines() else {
-        errorMap["outfits.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["outfits.txt"] = language.fileReadingError
         listOf()
     }
     val pistolsFile = File(pathToRndata, "pistols.txt")
     val pistols = if (pistolsFile.canRead()) pistolsFile.readLines() else {
-        errorMap["pistols.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["pistols.txt"] = language.fileReadingError
         listOf()
     }
     val riflesFile = File(pathToRndata, "rifles.txt")
     val rifles = if (riflesFile.canRead()) riflesFile.readLines() else {
-        errorMap["rifles.txt"] = "Ошибка чтения файла или файл пустой"
+        errorMap["rifles.txt"] = language.fileReadingError
         listOf()
     }
 
     val gamedata = File("./gamedata${SimpleDateFormat("dd.MM.yyyy_hh.mm.ss").format(Date())}")
     if (gamedata.mkdir()) {
-        answer = getUserInput(answer, "Изменять экипировку НПС? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.changeEquip)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(generateNpc(rifles, pistols, gamedata))
+                errorMap.putAll(generateNpc(rifles, pistols, gamedata, language))
             } catch (e: Exception) {
-                println(
-                    "Ошибка обработки НПС. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
-                )
+                println(language.npcError)
+                println(separator)
                 printLogs(errorMap, e)
                 return
             }
         }
 
-        answer = getUserInput(answer, "Изменять статы оружия? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.changeWeapons)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(generateWeapons(gamedata))
+                errorMap.putAll(generateWeapons(gamedata, language))
             } catch (e: Exception) {
-                println(
-                    "Ошибка обработки оружия. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
-                )
+                println(language.weaponsError)
+                println(separator)
                 printLogs(errorMap, e)
                 return
             }
         }
 
-        answer = getUserInput(answer, "Изменять статы артефактов? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.changeArtefacts)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(generateArtefacts(gamedata))
+                errorMap.putAll(generateArtefacts(gamedata, language))
             } catch (e: Exception) {
-                println(
-                    "Ошибка обработки артефактов. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
-                )
+                println(language.artefactsError)
+                println(separator)
                 printLogs(errorMap, e)
                 return
             }
         }
 
-        answer = getUserInput(answer, "Изменять статы брони? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.changeOutfit)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(generateOutfits(gamedata))
+                errorMap.putAll(generateOutfits(gamedata, language))
             } catch (e: Exception) {
-                println(
-                    "Ошибка обработки брони. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
-                )
+                println(language.outfitError)
+                println(separator)
                 printLogs(errorMap, e)
                 return
             }
         }
 
-        answer = getUserInput(answer, "Изменять содержимое тайников? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.changeStashes)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(generateStashes(gamedata, rifles, pistols, items, outfits, devices, artefacts, ammos))
-            } catch (e: Exception) {
-                println(
-                    "Ошибка обработки тайников. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
+                errorMap.putAll(
+                    generateStashes(
+                        gamedata,
+                        rifles,
+                        pistols,
+                        items,
+                        outfits,
+                        devices,
+                        artefacts,
+                        ammos,
+                        language
+                    )
                 )
+            } catch (e: Exception) {
+                println(language.stashesError)
+                println(separator)
                 printLogs(errorMap, e)
                 return
             }
         }
 
-        answer = getUserInput(answer, "Применить кривой перевод? 1 - да, 0 - нет: ")
+        answer = getUserInput(answer, language.applyTranslate)
 
         if (answer != "0") {
             try {
-                errorMap.putAll(copyTranslate(gamedata))
+                errorMap.putAll(copyTranslate(gamedata, language))
             } catch (e: Exception) {
-                println(
-                    "Ошибка обработки косячного перевода. Операция прервана\n" +
-                            "-----------------------------------------------------------------"
-                )
+                println(language.translateError)
                 printLogs(errorMap, e)
                 return
             }
@@ -166,38 +251,48 @@ fun main(args: Array<String>) {
 
         println("\nOK\n")
         if (errorMap.isNotEmpty()) {
-            println("-----------------------------------------------------------------")
-            println("При работе программы возникли следующие ошибки:\n")
+            println(separator)
+            println(language.allErrorsMessage)
             printLogs(errorMap)
             return
         }
     } else {
-        println("Ошибка создания директории ${gamedata.path}")
+        println("${language.folderCreationError} ${gamedata.path}")
     }
 
-    println("Для продолжения нажмите Enter...")
+    println(language.continueInput)
     readlnOrNull()
 }
 
-fun generateNpc(rifles: List<String>, pistols: List<String>, gamedata: File): MutableMap<String, String> {
+fun generateNpc(
+    rifles: List<String>,
+    pistols: List<String>,
+    gamedata: File,
+    language: Translation
+): MutableMap<String, String> {
     val gameplayDir = File(pathToGameplay)
     val errorMap = mutableMapOf<String, String>()
 
+    if (!gameplayDir.canRead()) {
+        errorMap[gameplayDir.path] = language.folderReadingError
+        return errorMap
+    }
+
     val exportDir = File(gamedata, "configs/gameplay")
     if (!exportDir.mkdirs()) {
-        errorMap[exportDir.path] = "Ошибка создания директории"
+        errorMap[exportDir.path] = language.folderCreationError
         return errorMap
     }
 
     val exceptionsFile = File(pathToRndata, "exceptions.txt")
     val exceptions = if (exceptionsFile.canRead()) exceptionsFile.readLines() else {
-        errorMap[exceptionsFile.path] = "Ошибка чтения файла или файл пустой"
+        errorMap[exceptionsFile.path] = language.fileReadingError
         listOf()
     }
 
     val modelsFile = File(pathToRndata, "models.txt")
     val models = if (modelsFile.canRead()) modelsFile.readLines() else {
-        errorMap[modelsFile.path] = "Ошибка чтения файла или файл пустой"
+        errorMap[modelsFile.path] = language.fileReadingError
         listOf()
     }
 
@@ -269,37 +364,37 @@ fun generateNpc(rifles: List<String>, pistols: List<String>, gamedata: File): Mu
             if (exportFile.createNewFile()) {
                 exportFile.writeText(newCharDesc)
             } else {
-                errorMap[exportFile.path] = "Ошибка создания файла"
+                errorMap[exportFile.path] = language.fileCreationError
 
             }
         } else {
-            errorMap[file.path] = "Ошибка чтения файла НПС"
+            errorMap[file.path] = language.fileReadingError
         }
     }
 
     return errorMap
 }
 
-fun generateWeapons(gamedata: File): MutableMap<String, String> {
+fun generateWeapons(gamedata: File, language: Translation): MutableMap<String, String> {
     val errorMap = mutableMapOf<String, String>()
     val weaponsDir = File(pathToWeapons)
     if (!weaponsDir.isDirectory) {
-        return mutableMapOf(Pair(weaponsDir.path, "Ошибка чтения директории"))
+        return mutableMapOf(Pair(weaponsDir.path, language.folderReadingError))
     }
 
     val exportDir = File(gamedata, "configs/weapons")
     if (!exportDir.mkdirs()) {
-        return mutableMapOf(Pair(exportDir.path, "Ошибка создания директории"))
+        return mutableMapOf(Pair(exportDir.path, language.folderCreationError))
     }
 
     for (weaponFile in weaponsDir.listFiles()!!) {
         if (!weaponFile.canRead()) {
-            errorMap[weaponFile.path] = "Ошибка чтения файла"
+            errorMap[weaponFile.path] = language.fileReadingError
             continue
         }
 
         if (!weaponFile.isFile) {
-            errorMap[weaponFile.path] = "Это директория, требуется файл"
+            errorMap[weaponFile.path] = language.itsFolderNotAFile
             continue
         }
 
@@ -346,30 +441,30 @@ fun generateWeapons(gamedata: File): MutableMap<String, String> {
         if (exportFile.createNewFile()) {
             exportFile.writeText(weapon)
         } else {
-            errorMap[exportFile.path] = "Ошибка создания файла"
+            errorMap[exportFile.path] = language.folderCreationError
         }
     }
 
     return errorMap
 }
 
-fun generateArtefacts(gamedata: File): MutableMap<String, String> {
+fun generateArtefacts(gamedata: File, language: Translation): MutableMap<String, String> {
     val miscDir = File(pathToMisc)
 
     if (!miscDir.isDirectory) {
-        return mutableMapOf(Pair(miscDir.path, "Ошибка чтения директории"))
+        return mutableMapOf(Pair(miscDir.path, language.folderReadingError))
     }
     val exportDir = File(gamedata, "configs/misc")
     if (!exportDir.mkdirs()) {
-        return mutableMapOf(Pair(exportDir.path, "Ошибка создания директории"))
+        return mutableMapOf(Pair(exportDir.path, language.folderCreationError))
     }
 
     val artefactsFile = File(miscDir, "artefacts.ltx")
     if (!artefactsFile.canRead()) {
-        return mutableMapOf(Pair(artefactsFile.path, "Ошибка чтения файла"))
+        return mutableMapOf(Pair(artefactsFile.path, language.fileReadingError))
     }
     if (!artefactsFile.isFile) {
-        return mutableMapOf(Pair(artefactsFile.path, "Это директория, требуется файл"))
+        return mutableMapOf(Pair(artefactsFile.path, language.itsFolderNotAFile))
     }
 
     val fullAfStats: List<String> = listOf(
@@ -410,31 +505,31 @@ fun generateArtefacts(gamedata: File): MutableMap<String, String> {
     if (exportFile.createNewFile()) {
         exportFile.writeText(outputArtefactsText)
     } else {
-        return mutableMapOf(Pair(exportFile.path, "Ошибка записи файла"))
+        return mutableMapOf(Pair(exportFile.path, language.fileCreationError))
     }
 
     return mutableMapOf()
 }
 
-fun generateOutfits(gamedata: File): MutableMap<String, String> {
+fun generateOutfits(gamedata: File, language: Translation): MutableMap<String, String> {
     val miscDir = File(pathToMisc)
 
     if (!miscDir.isDirectory) {
-        return mutableMapOf(Pair(miscDir.path, "Ошибка чтения директории"))
+        return mutableMapOf(Pair(miscDir.path, language.folderReadingError))
     }
     val exportDir = File(gamedata, "configs/misc")
     if (!exportDir.exists()) {
         if (!exportDir.mkdirs()) {
-            return mutableMapOf(Pair(exportDir.path, "Ошибка создания директории"))
+            return mutableMapOf(Pair(exportDir.path, language.folderCreationError))
         }
     }
 
     val outfitsFile = File(miscDir, "outfit.ltx")
     if (!outfitsFile.canRead()) {
-        return mutableMapOf(Pair(outfitsFile.path, "Ошибка чтения файла"))
+        return mutableMapOf(Pair(outfitsFile.path, language.fileReadingError))
     }
     if (!outfitsFile.isFile) {
-        return mutableMapOf(Pair(outfitsFile.path, "Это директория, требуется файл"))
+        return mutableMapOf(Pair(outfitsFile.path, language.itsFolderNotAFile))
     }
 
     val firstOutfitStats: List<String> = listOf(
@@ -508,7 +603,7 @@ fun generateOutfits(gamedata: File): MutableMap<String, String> {
     if (exportFile.createNewFile()) {
         exportFile.writeText(outputOutfitsText)
     } else {
-        return mutableMapOf(Pair(exportFile.path, "Ошибка записи файла"))
+        return mutableMapOf(Pair(exportFile.path, language.fileCreationError))
     }
 
     return mutableMapOf()
@@ -522,30 +617,31 @@ fun generateStashes(
     outfits: List<String>,
     devices: List<String>,
     artefacts: List<String>,
-    ammos: List<String>
+    ammos: List<String>,
+    language: Translation
 ): MutableMap<String, String> {
     val errorMap: MutableMap<String, String> = mutableMapOf()
     val miscDir = File(pathToMisc)
 
     if (!miscDir.isDirectory) {
-        return mutableMapOf(Pair(miscDir.path, "Ошибка чтения директории"))
+        return mutableMapOf(Pair(miscDir.path, language.folderReadingError))
     }
     val exportDir = File(gamedata, "configs/misc")
     if (!exportDir.exists()) {
         if (!exportDir.mkdirs()) {
-            return mutableMapOf(Pair(exportDir.path, "Ошибка создания директории"))
+            return mutableMapOf(Pair(exportDir.path, language.folderCreationError))
         }
     }
 
     val stashFiles = miscDir.listFiles()!!.toMutableList()
     stashFiles.removeIf { file -> !file.name.contains("treasure_") || !file.isFile }
     if (stashFiles.isEmpty()) {
-        return mutableMapOf(Pair("miscDir.listFiles", "Не найдены файлы с тайниками"))
+        return mutableMapOf(Pair("miscDir.listFiles.contains(\"treasure_\")", language.fileReadingError))
     }
 
     for (stashFile in stashFiles) {
         if (!stashFile.canRead()) {
-            errorMap[stashFile.path] = "Ошибка чтения файла"
+            errorMap[stashFile.path] = language.fileReadingError
             continue
         }
 
@@ -592,7 +688,7 @@ fun generateStashes(
                 }
 
                 if (j < itemCount - 1) {
-                    newItems += ", ";
+                    newItems += ", "
                 }
             }
 
@@ -604,26 +700,26 @@ fun generateStashes(
         if (exportFile.createNewFile()) {
             exportFile.writeText(outputStashText)
         } else {
-            errorMap[exportFile.path] = "Ошибка создания файла"
+            errorMap[exportFile.path] = language.fileCreationError
         }
     }
 
     return errorMap
 }
 
-fun copyTranslate(gamedata: File): MutableMap<String, String> {
+fun copyTranslate(gamedata: File, language: Translation): MutableMap<String, String> {
     val textFile = File(pathToText)
     if (!textFile.exists() || textFile.isFile || !textFile.canRead()) {
-        return mutableMapOf(Pair(textFile.path, "Ошибка чтения директории с косячным переводом"))
+        return mutableMapOf(Pair(textFile.path, language.folderReadingError))
     }
 
     val newConfigsFile = File(gamedata, "configs/text")
     if (!newConfigsFile.exists() && !newConfigsFile.mkdirs()) {
-        return mutableMapOf(Pair(newConfigsFile.path, "Ошибка создания директории"))
+        return mutableMapOf(Pair(newConfigsFile.path, language.folderCreationError))
     }
 
-    if(!textFile.copyRecursively(newConfigsFile)){
-        return mutableMapOf(Pair(newConfigsFile.path, "Ошибка копирования директории"))
+    if (!textFile.copyRecursively(newConfigsFile)) {
+        return mutableMapOf(Pair(newConfigsFile.path, language.folderCopyingError))
     }
 
     return mutableMapOf()
@@ -674,7 +770,7 @@ fun printLogs(errorMap: MutableMap<String, String>, exception: Exception? = null
         }
     }
 
-    println("Для продолжения нажмите Enter...")
+    println("To continue, press Enter...")
     readlnOrNull()
 }
 
@@ -731,7 +827,7 @@ fun generateItem(itemList: List<String>, maxItemCount: Int): String {
 
     val count = Random.nextInt(1, maxItemCount + 1) * itemPackCount
 
-    return "$item, $count";
+    return "$item, $count"
 }
 
 fun getUserInput(oldAnswer: String, message: String): String {
